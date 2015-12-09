@@ -50,6 +50,7 @@
 ## Soutenances
 
 > - Cacher les bugs
+> - Ne pas faire jouer les profs
 > - Test.
 > - 2 soutenances intermediaires
 > - 2 soutenances finales
@@ -74,6 +75,7 @@
 > - Communiquez !
 
 ## Protips
+> - Site web local
 > - Krisboul SAIT
 > - Gollum GROGNE
 > - Krisboul connait Gollum
