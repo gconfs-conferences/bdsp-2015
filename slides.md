@@ -4,8 +4,8 @@
 
 ## Gestion du groupe
 
-> - Affinites
-> - Niveaux homogenes
+> - Affinités
+> - Niveaux homogènes
 > - Inters = anglais
 > - 4 membres
 > - Ou moins...
@@ -21,7 +21,7 @@
 ## Rapports
 
 > - Cahier des charges
-> - 2 rapports intermediaires
+> - 2 rapports intermédiaires
 > - Final : 1 rapport
 > - Ou plus...
 
@@ -29,8 +29,8 @@
 
 > - Repartir
 > - Git
-> - Editeur en ligne (overleaf)
-> - Intermediaire : 20 pages
+> - Éditeur en ligne (overleaf)
+> - Intermédiaire : 20 pages
 > - Final : 50 pages
 > - Images
 > - Le manuscrit de Didier Verna
@@ -40,10 +40,10 @@
 
 ## Soutenances
 
-> - Se preparer
+> - Se préparer
 > - Savoir de quoi on parle
 > - Pingouins
-> - Coherence de la tenue
+> - Cohérence de la tenue
 > - Time
 > - 4 men => 4 laptops
 
@@ -51,7 +51,7 @@
 
 > - Cacher les bugs
 > - Test.
-> - 2 soutenances intermediaires
+> - 2 soutenances intermédiaires
 > - 2 soutenances finales
 > - Ou plus...
 
@@ -61,13 +61,13 @@
 > - Ou plus...
 > - Goodies
 > - Bullshiiiiiiiit
-> - Prevoir (reseau)
+> - Prévoir (réseau)
 
 # Gestion du projet \& Protips
 
 ## Gestion du projet
 
-> - Etre realiste
+> - Être réaliste
 > - Un graphiste qui graphe c'est bien
 > - Un graphiste qui code, c'est mieux
 > - .gitignore/.unityPackage
@@ -76,7 +76,7 @@
 ## Protips
 > - Krisboul SAIT
 > - Gollum GROGNE
-> - Krisboul connait Gollum
+> - Krisboul connaît Gollum
 > - Attention
 
 # Sources
