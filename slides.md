@@ -14,23 +14,23 @@
 
 > - Choix du projet
 > - Choix du chef
-> - Repartir les taches
+> - Répartir les tâches
 
 # Rapports
 
 ## Rapports
 
-> - Cahier des charges
+> - Cahier des Charges
 > - 2 rapports intermédiaires
 > - Final : 1 rapport
 > - Ou plus...
 
 ## How to LaTeX
 
-> - Repartir
+> - Répartir
 > - Git
-> - Éditeur en ligne (overleaf)
-> - Intermédiaire : 20 pages
+> - Éditeurs en ligne (Overleaf)
+> - Intermédiaires : 20 pages
 > - Final : 50 pages
 > - Images
 > - Le manuscrit de Didier Verna
@@ -51,6 +51,7 @@
 
 > - Cacher les bugs
 > - Ne pas faire jouer les profs
+> - Ne pas montrer son code
 > - Test.
 > - 2 soutenances intermédiaires
 > - 2 soutenances finales
