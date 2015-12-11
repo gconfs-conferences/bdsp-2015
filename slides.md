@@ -10,7 +10,13 @@
 > - 4 membres
 > - Ou moins...
 
-## 
+## Etre 4
+
+![](images/avant.jpg)
+
+## Etre 4 ... ou pas
+
+![](images/avant_tristesse.jpg)
 
 ## Gestion du groupe
 
@@ -117,6 +123,7 @@
 
 ## Attention
 
+![](images/triche.jpg)
 
 # Sources
 
