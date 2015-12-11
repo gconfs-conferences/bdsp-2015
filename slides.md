@@ -12,11 +12,11 @@
 
 ## Etre 4
 
-![](images/avant.jpg)
+![triste](images/avant.jpg)
 
 ## Etre 4 ... ou pas
 
-![](images/avant_tristesse.jpg)
+![très triste](images/avant_tristesse.jpg)
 
 ## Gestion du groupe
 
@@ -44,7 +44,7 @@
 
 ## Images
 
-![](images/latex.jpg)
+![malin](images/latex.jpg)
 
 ## How to LaTeX
 > - Le manuscrit de Didier Verna
@@ -60,7 +60,7 @@
 
 ## Pingouins
 
-![](images/pingouin.jpg)
+![coin coin](images/pingouin.jpg)
 
 ## Soutenances
 > - Cohérence de la tenue
@@ -71,7 +71,7 @@
 
 ## Game Over
 
-![](images/play.jpg)
+![The Game](images/play.jpg)
 
 ## Soutenances
 
@@ -83,7 +83,7 @@
 
 ## Eviter de montrer le code
 
-![](images/code.jpg)
+![pas malin](images/code.jpg)
 
 ## Soutenances
 
@@ -95,7 +95,7 @@
 
 ## Bullshit
 
-![](images/bullshit.jpg)
+![bullshit](images/bullshit.jpg)
 
 # Gestion du projet \& Protips
 
@@ -105,16 +105,20 @@
 
 ## Soyez réalistes !
 
-![](images/skyrim_meme.jpg)
+![mais bien sûr](images/skyrim_meme.jpg)
 
 ## Gestion du projet
 
 > - Un graphiste qui graphe c'est bien
 > - Un graphiste qui code, c'est mieux
 > - .gitignore/.unityPackage
-> - Communiquez !
+
+## Non !
+
+![c'est dommage...](images/metadatas.jpg)
 
 ## Protips
+> - Communiquez !
 > - Site web local
 > - Krisboul SAIT
 > - Gollum GROGNE
@@ -123,10 +127,10 @@
 
 ## Attention
 
-![](images/triche.jpg)
+![boring](images/triche.jpg)
 
 # Sources
 
 ## Sources
 
-![](images/source.jpg)
+![rire](images/source.jpg)
